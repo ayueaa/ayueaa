@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm aYueaa! 👋
 
-🌐 Visit my personal website for more about my work and projects and contact me
+🌐 Visit my [personal website](http://www.ayue.wang) for more about my work and projects and contact me
 
 ## About Me 📌
 - 🔭 A **Python Backend Engineer** with Flask & FastAPI & Django & Scrapy
 - 🌱 I’m currently learning **React**
 - 👯 I like programming with **ChatGPT**'s assistance
 - 🤔 A **Full-Stack developer** aspirant.
-- ⚡ My Portfolio Website: [http://www.ayue.wang](http://www.ayue.wang)
 
 
 ## Connect with Me 🌐
