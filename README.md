@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - *Others*
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux) 
 ## 📈 My GitHub Statistics
-🔭 I have worked on over **X** projects on GitHub.
+🔭 I have worked on over **10** projects on GitHub.
 #### My Github Stats 📊
 ![ayueaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayueaa&show_icons=true&theme=tokyonight&count_private=true)
 
