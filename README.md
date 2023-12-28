@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ayueaa/ayueaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,8 +41,27 @@ Here are some ideas to get you started:
 ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apachespark) ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq) 
 - *Others*
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux) 
-## Statistics 📈
-![ayueaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayueaa&show_icons=true&theme=tokyonight)
+## 📈 My GitHub Statistics
+🔭 I have worked on over **X** projects on GitHub.
+#### My Github Stats 📊
+![ayueaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayueaa&show_icons=true&theme=tokyonight&count_private=true)
+
+
+#### My Github Language🧱
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayueaa&theme=tokyonight&layout=compact)
+
+
+
+#### My Github Contributions✏️
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayueaa&theme=tokyonight)
+
+
+
+
+
 
 
 
